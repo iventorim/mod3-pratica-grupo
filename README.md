@@ -1,4 +1,3 @@
 mod3-pratica-grupo
-
-Pronto
-
+"A coisa mais incompreensível sobre o mundo é que ele é compreensível." - Albert eistein
+Pronto agora o proximo
